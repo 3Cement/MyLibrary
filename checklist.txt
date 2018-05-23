@@ -1,0 +1,7 @@
+1. MOCK-UPS 			- czyli Model i url
+2. Routing 			- nawigacja do wszystkich urli
+3. Templates & Forms 		- Wszystie pliki HTML i formularze, maja dzialac
+4. CRUD Functionality		- Caly backend i kontakt z baza danych, wszystko ma dzialac
+5. API Endpoints		- Kontakt z JSON, ma dzialac
+6. Styling & Message FLashin	- Style w CSS i wiadomosci. 
+
